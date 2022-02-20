@@ -7,7 +7,9 @@
 --------------------------------------------------------------------------
 
 1. Model Name: YOLO V4
-   Paper YOLO v4: https://arxiv.org/abs/2004.10934
+   Paper YOLO v4: https://arxiv.org/abs/2004.10934.
+   
+   
    Training and prediction code file: people_car.ipynb
 
 2. Links to dataset and framework:
