@@ -81,7 +81,7 @@ TP = 147, FP = 126, FN = 97, average IoU = 39.61 %
 IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
 mean average precision (mAP@0.50) = 0.586163, or 58.62 % 
 
-6. Result and coionculsion:
+6. Result and conclusion:
 On of the predictions.jpg is attched for your reference. The model is doing quite well even though it has trained for less time. From 
 the image, it was cleared seen that model can able to localised the person and car with the class probabilty. 
 
